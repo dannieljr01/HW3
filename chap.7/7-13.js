@@ -9,3 +9,4 @@ var extendClass3 = function(SuperClass, SubClass, subMethods) {
     Object.freeze(SubClass.prototype);
     return SubClass;
   };
+
